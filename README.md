@@ -1,7 +1,9 @@
+[![Actions Status](https://github.com/tbrowder/App-InstallApache/actions/workflows/test.yml/badge.svg)](https://github.com/tbrowder/App-InstallApache/actions)
+
 NAME
 ====
 
-App::InstallApache - blah blah blah
+App::InstallApache - Provides a Raku program to ease installing the Apache httpd webserver
 
 SYNOPSIS
 ========
