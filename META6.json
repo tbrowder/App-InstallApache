@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides a Raku program to ease installing the Apache httpd webserver",
+  "license": "Artistic-2.0",
+  "name": "App::InstallApache",
+  "perl": "6.d",
+  "provides": {
+    "App::InstallApache": "lib/App/InstallApache.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
